@@ -1,0 +1,16 @@
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\EczaneOtomasyonu\EczaneOtomasyonu\bin\EczaneOtomasyonu.dll
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\EczaneOtomasyonu\EczaneOtomasyonu\bin\EczaneOtomasyonu.pdb
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.dll
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.pdb
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Bedirhan\Desktop\2015-2016 BAHAR\PROJELER\134410010__BEDİRHAN__SAĞLAM_PROJE_2.AŞAMA\EczaneOtomasyonu\EczaneOtomasyonu\bin\EczaneOtomasyonu.dll
+C:\Users\Bedirhan\Desktop\2015-2016 BAHAR\PROJELER\134410010__BEDİRHAN__SAĞLAM_PROJE_2.AŞAMA\EczaneOtomasyonu\EczaneOtomasyonu\bin\EczaneOtomasyonu.pdb
+C:\Users\Bedirhan\Desktop\2015-2016 BAHAR\PROJELER\134410010__BEDİRHAN__SAĞLAM_PROJE_2.AŞAMA\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Bedirhan\Desktop\2015-2016 BAHAR\PROJELER\134410010__BEDİRHAN__SAĞLAM_PROJE_2.AŞAMA\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.dll
+C:\Users\Bedirhan\Desktop\2015-2016 BAHAR\PROJELER\134410010__BEDİRHAN__SAĞLAM_PROJE_2.AŞAMA\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.pdb
+F:\DERS\2015-2016\BAHAR\PROJELER\134410010__BEDİRHAN__SAĞLAM_PROJE_2.AŞAMA\EczaneOtomasyonu\EczaneOtomasyonu\bin\EczaneOtomasyonu.dll.config
+F:\DERS\2015-2016\BAHAR\PROJELER\134410010__BEDİRHAN__SAĞLAM_PROJE_2.AŞAMA\EczaneOtomasyonu\EczaneOtomasyonu\bin\EczaneOtomasyonu.dll
+F:\DERS\2015-2016\BAHAR\PROJELER\134410010__BEDİRHAN__SAĞLAM_PROJE_2.AŞAMA\EczaneOtomasyonu\EczaneOtomasyonu\bin\EczaneOtomasyonu.pdb
+F:\DERS\2015-2016\BAHAR\PROJELER\134410010__BEDİRHAN__SAĞLAM_PROJE_2.AŞAMA\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.csprojResolveAssemblyReference.cache
+F:\DERS\2015-2016\BAHAR\PROJELER\134410010__BEDİRHAN__SAĞLAM_PROJE_2.AŞAMA\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.dll
+F:\DERS\2015-2016\BAHAR\PROJELER\134410010__BEDİRHAN__SAĞLAM_PROJE_2.AŞAMA\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.pdb
